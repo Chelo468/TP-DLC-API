@@ -46,7 +46,7 @@ public class ArchivoResource {
     public String getJson() {
         //TODO return proper representation object
         //throw new UnsupportedOperationException();
-        return "{sarasa: '" + this.name + "'}";
+        return "{\"sarasa\": \"" + this.name + "\"}";
     }
 
     /**

@@ -5,7 +5,17 @@
         <group>
             <file>file:/C:/Users/Chelo/Documents/NetBeansProjects/TP-API/web/WEB-INF/web.xml</file>
             <file>file:/C:/Users/Chelo/Documents/NetBeansProjects/TP-API/web/index.html</file>
+            <file>file:/C:/Users/Chelo/Documents/NetBeansProjects/TP-API/src/java/Indexador/IndexadorsResource.java</file>
+            <file>file:/C:/Users/Chelo/Documents/NetBeansProjects/TP-API/src/java/Entidades/AccesoFile.java</file>
+            <file>file:/C:/Users/Chelo/Documents/NetBeansProjects/TP-API/src/java/Entidades/Archivo.java</file>
+            <file>file:/C:/Users/Chelo/Documents/NetBeansProjects/TP-API/src/java/Indexador/IndexadorResource.java</file>
+            <file>file:/C:/Users/Chelo/Documents/NetBeansProjects/TP-API/src/java/Entidades/Indexador.java</file>
+            <file>file:/C:/Users/Chelo/Documents/NetBeansProjects/TP-API/src/java/Entidades/AccesoBD.java</file>
+            <file>file:/C:/Users/Chelo/Documents/NetBeansProjects/TP-API/src/java/Entidades/Palabra.java</file>
+            <file>file:/C:/Users/Chelo/Documents/NetBeansProjects/TP-API/src/java/Controllers/CtrlIndexador.java</file>
+            <file>file:/C:/Users/Chelo/Documents/NetBeansProjects/TP-API/src/java/Entidades/Buscador.java</file>
             <file>file:/C:/Users/Chelo/Documents/NetBeansProjects/TP-API/src/java/Archivo/ArchivoResource.java</file>
+            <file>file:/C:/Users/Chelo/Documents/NetBeansProjects/TP-API/src/java/Entidades/SAC.java</file>
             <file>file:/C:/Users/Chelo/Documents/NetBeansProjects/TP-API/src/java/Archivo/ArchivoesResource.java</file>
         </group>
     </open-files>
